@@ -10,7 +10,7 @@ setup_args = dict(
         'pillow',
         'seaborn',
         'scipy',
-        'https://github.com/cs1010s/cocos/releases/download/2220/cocos.zip'
+        'cocos2d @ https://github.com/cs1010s/cocos/releases/download/2220/cocos.zip'
     ],
 )
 
